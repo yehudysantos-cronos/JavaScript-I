@@ -1,4 +1,4 @@
-const livros = require('./listaLivros');
+const livros = require('./listalivros');
 
 let maisBarato = 0;
 
